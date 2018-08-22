@@ -1,0 +1,14 @@
+table {
+	border-collapse: collapse; 
+	min-width: 90%;
+	margin-left: 5%;
+	margin-right: 5‰;
+	
+}
+
+
+
+td, th {
+	border: 1px solid black;
+	min-width:20%;
+}

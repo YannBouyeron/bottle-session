@@ -6,14 +6,15 @@ Gestion des sessions users et administrateur avec bottle
 
 Le fichier Administrator.py regroupe un module qui permet la gestion des sessions; cette gestion minimaliste repose sur une base de données sqlite dans laquelle sont enregistrés les ID , mail, hash du password, level, date de création du compte, et date de dernière connection de chaque utilisateur.
 
-Le fichier Formulator.py est un module qui facilite l’utilisation des formulaires html
+Le fichier Formulator.py est un module qui facilite l’utilisation des formulaires html.
 
-Le fichier config.txt contient les données du compte Administrateur (compte indépendant de la base de données sqlite), parametrable depuis l’interface du site MySite.py
+Le fichier config.txt contient les données du compte Administrateur (compte indépendant de la base de données sqlite), parametrable depuis l’interface du site MySite.py.
 
-Le fichier MySite.py est le backend d’un site permettant la gestion des users (et exploitant le module Administrator.py)
+Le fichier MySite.py est le backend d’un site permettant la gestion des users (et exploitant le module Administrator.py).
 
-Le dossier views contient les templates html
-Le dossier static contient les fichiers css
+Le dossier views contient les templates html.
+
+Le dossier static contient les fichiers css.
 
 ## Dépendances
 

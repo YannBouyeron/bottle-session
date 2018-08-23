@@ -26,6 +26,9 @@ Les modules python suivant sont necessaires:
 - sys
 - sqlite3
 - hashlib
+- time
+
+- numpy
 - bottle
 
 ## Fonctionnalités

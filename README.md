@@ -4,7 +4,7 @@ Gestion des sessions users et administrateur avec bottle
 
 ## Présentation
 
-Le fichier Administrator.py regroupe un module qui permet la gestion des sessions; cette gestion minimaliste repose sur une base de données sqlite dans laquelle sont enregistrés les ID , mail, hash du password, level, date de création du compte, et date de dernière connection de chaque utilisateur.
+Le fichier Administrator.py est un module qui permet la gestion des sessions; cette gestion minimaliste repose sur une base de données sqlite dans laquelle sont enregistrés les ID , mail, hash du password, level, date de création du compte, et date de dernière connection de chaque utilisateur.
 
 Le fichier Formulator.py est un module qui facilite l’utilisation des formulaires html.
 
